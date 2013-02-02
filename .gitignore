@@ -15,3 +15,6 @@
 # Undo and swap files
 .*.un~
 .*.sw?
+
+# Miscellaneous files
+*.bar
