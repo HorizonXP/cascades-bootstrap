@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+# Undo and swap files
+.*.un~
+.*.sw?
